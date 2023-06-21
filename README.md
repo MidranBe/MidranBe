@@ -1,4 +1,10 @@
-### Hi there 👋
+  Olá meu nome é Bernardo tenho 14 anos e programo umas coisinhas aí ( nada demais ) Scratch, Game Maker, Java ( nada demais ). Criei esse perfil pra postar algumas coisas da escola e etc espero conseguir melhorar na programação...
+  
+- Pokemon 
+- Futebol 
+- TCG
+- Jogos em geral 
+- Game Maker
 
 <!--
 **MidranBe/MidranBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
